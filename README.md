@@ -1,6 +1,6 @@
 # CSV to XLSX
 ## Introduction
-This command line tool uses this [package](https://github.com/tealeg/csv2xlsx) that converts CSV files to XLSX files 
+This command line tool uses this [package](https://github.com/tealeg/csv2xlsx) to convert a directory of CSV files to XLSX files.
 
 ## Installation
 
