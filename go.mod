@@ -1,4 +1,4 @@
-module github.com/tealeg/csv2xlsx
+module github.com/patch3459/CSVtoXLSX_Converter
 
 go 1.12
 
