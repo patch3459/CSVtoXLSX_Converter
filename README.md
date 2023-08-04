@@ -1,6 +1,6 @@
 # CSV to XLSX
 ## Introduction
-This command line tool uses a [package](https://github.com/tealeg/csv2xlsx) that converts CSV files to XLSX files 
+This command line tool uses this [package](https://github.com/tealeg/csv2xlsx) that converts CSV files to XLSX files 
 
 ## Installation
 
@@ -8,10 +8,9 @@ You are going to need the Go programming language installed in order to build th
 
 Once you have Go installed, you'll need to either clone this repository:
 
-#+BEGIN_SRC sh
+```
 git clone https://github.com/patch3459/CSVtoXLSX_Converter.git 
-#+END_SRC
-
+```
 From within the resulting `CSVtoXLSX_Converter` directory issue the following command to build the project:
 
 ```
